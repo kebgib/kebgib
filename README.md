@@ -5,7 +5,7 @@
     - Automating security infrastructure    
     - Parsing connection logs and building network baselines     
     - Identifying anomylous network signatures    
-    - Azure AppSvcs and security infrastructure
+    - AWS Lambda functions
        
 - 🌱 I’m currently reading ...
     - `Securing DevOps` by Julien Vehent
